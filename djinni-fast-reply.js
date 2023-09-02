@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Modify as you wish
-// @author       Ivan Labushevskyi
+// @author       Ivan L.
 // @match        https://djinni.co/my/inbox/*
 // @icon         https://www.google.com/s2/favicons?domain=djinni.co
 // @grant        none
